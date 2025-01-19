@@ -1,6 +1,7 @@
 # Marcus Aurelius Chatbot
 
 **GitHub Repository:** [Marcus Aurelius Chatbot](https://github.com/anzarshah/CHAT-BOT-MARCUS-AURELIAS-)
+![Getting Started](./marcus_aurelius_chatbot.jpg)
 
 ## Overview
 A unique chatbot inspired by Marcus Aurelius, designed to provide reflective and Stoic-inspired conversations. This project combines modern NLP capabilities with timeless philosophical wisdom.
